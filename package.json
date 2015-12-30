@@ -1,0 +1,19 @@
+{
+  "name": "orderservices",
+  "version": "1.0.0",
+  "description": "Services to place an order",
+  "main": "server-1.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "OrderServices"
+  ],
+  "author": "Sukhwinder Singh",
+  "license": "ISC",
+  "dependencies": {
+   "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.2.9"
+  }
+}
